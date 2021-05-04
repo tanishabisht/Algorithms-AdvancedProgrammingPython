@@ -14,6 +14,7 @@ Till week 5, all the programs are done in jupyter notebook.<br>
 |`6A` | Socket |1,2,3,4|
 |`6B` | Parallel, Concurrent, Multiprogramming |6,7,8,9,10|
 |`7` | Prolog |ex1,2|
+|`9` | Symbolic Programming |Q1,2,3,4,5|
 
 
 
@@ -22,7 +23,7 @@ While installing the packages using terminal you can install multiple packages/l
 ```
 pip install tkinter mysql.conector sqlite3 threading
 ```
-
+[Download prolog](http://www.gprolog.org/#download).
 
 
 ## Installing Coding Environment
