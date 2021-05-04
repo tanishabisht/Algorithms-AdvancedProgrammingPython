@@ -13,6 +13,7 @@ Till week 5, all the programs are done in jupyter notebook.<br>
 |`5` | GUI with SQL Backend |1,2,4,5|
 |`6A` | Socket |1,2,3,4|
 |`6B` | Parallel, Concurrent, Multiprogramming |6,7,8,9,10|
+|`7` | Prolog |ex1,2|
 
 
 
